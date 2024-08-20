@@ -24,9 +24,7 @@ Welcome to your comprehensive study guide for Java JDBC, Spring Boot, Maven, H2,
 
 ## Java Fundamentals
 
-- [Core Java Concepts](java-fundamentals/core-concepts.md)
-- [Object-Oriented Programming in Java](java-fundamentals/oop.md)
-- [Java 8+ Features](java-fundamentals/java-8-features.md)
+- [[Core Java Concepts](java-fundamentals/core-concepts.md)](https://github.com/ichillous/JavaNotes)
 
 ## JDBC
 
