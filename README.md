@@ -24,7 +24,7 @@ Welcome to your comprehensive study guide for Java JDBC, Spring Boot, Maven, H2,
 
 ## Java Fundamentals
 
-- [[Core Java Concepts](java-fundamentals/core-concepts.md)](https://github.com/ichillous/JavaNotes)
+- [Core Java Concepts](https://github.com/ichillous/JavaNotes)
 
 ## JDBC
 
