@@ -118,9 +118,6 @@ Welcome to your comprehensive study guide for Java JDBC, Spring Boot, Maven, H2,
 ## Useful Resources
 
 - [Recommended Books](resources/books.md)
-- [Online Courses](resources/courses.md)
-- [Helpful Websites and Blogs](resources/websites.md)
-- [Community Forums and Q&A Sites](resources/community.md)
 
 ---
 
