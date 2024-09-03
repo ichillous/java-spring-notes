@@ -108,7 +108,6 @@ Welcome to your comprehensive study guide for Java JDBC, Spring Boot, Maven, H2,
   - [AWS EC2](deployment/aws-ec2.md)
   - [AWS RDS](deployment/aws-rds.md)
 
-[...rest of the content remains the same...]
 ## Best Practices
 
 - [Code Organization](best-practices/code-organization.md)
